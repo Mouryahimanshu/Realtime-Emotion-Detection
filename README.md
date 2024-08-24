@@ -4,7 +4,7 @@
 
 
 ## ***Fine-Tuning Deep Learning Models for Age Prediction***
-### ~ Implemented Deep Learning and Transfer Learning by fine-tuning using imagenet and advance CNNs Models .
+### ~ Implemented Deep Learning and Transfer Learning by advance CNNs Models .
 ### ~ Performed various experiments to determine the best model using  :- 
 #### ~  accuracy: 0.5820 
 #### ~  loss: 1.1018
