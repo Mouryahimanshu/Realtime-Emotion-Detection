@@ -14,7 +14,8 @@
 ## Prediction : -
 ![image](https://github.com/user-attachments/assets/c6aeb443-5763-4df5-88e2-670cab3ca435)
 
-#### Model : -
+## Model : -
+
 ### Happy 
 ![Screenshot 2024-08-25 024645](https://github.com/user-attachments/assets/a0236d18-702f-4f38-a190-4944ef11a074)
 
