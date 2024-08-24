@@ -7,8 +7,8 @@
 ### ~ Implemented Deep Learning and Transfer Learning by fine-tuning using imagenet and advance CNNs Models .
 ### ~ Performed various experiments to determine the best model using  :- 
 #### ~  accuracy: 0.5820 
-#### ~  loss: 1.1018,
-#### ~ val_accuracy: 0.5585,
+#### ~  loss: 1.1018
+#### ~ val_accuracy: 0.5585
 #### ~ val_loss: 1.1499 
 
 ### Happy 
