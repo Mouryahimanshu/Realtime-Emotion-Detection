@@ -1,6 +1,6 @@
 # Realtime-Emotion-Detection
 ## Overview
-######  Real-Time Emotion Detection is an advanced machine learning project that analyzes facial expressions in real-time to classify emotions. Using deep learning models, the system can detect and categorize human emotions into seven classes: Angry, Disgust, Fear, Happy, Neutral, Sad, and Surprise. This project is particularly useful in applications such as sentiment analysis, user experience enhancement, and mental health monitoring.
+######  Real-Time Emotion Detection is an advanced Deep learning project that analyzes facial expressions in real-time to classify emotions. Using deep learning models, the system can detect and categorize human emotions into seven classes: Angry, Disgust, Fear, Happy, Neutral, Sad, and Surprise. This project is particularly useful in applications such as sentiment analysis, user experience enhancement, and mental health monitoring.
 
 
 ## ***Deep Learning Models for Emotion Prediction***
